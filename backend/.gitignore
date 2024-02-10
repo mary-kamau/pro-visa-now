@@ -1,0 +1,6 @@
+/env
+/build
+/backend/__pycache__
+/backend/config.py
+/accounts/__pycache__
+/accounts/migrations/__pycache__
